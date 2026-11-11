@@ -49,7 +49,10 @@ O projeto busca utilizar a tecnologia para apoiar os processos administrativos e
 
 ---
 
-<h2><img src="https://api.iconify.design/lucide/handshake.svg?color=%23B08968" width="25" /> Parceria institucional</h2>
+<h2>
+  <img src="https://api.iconify.design/lucide/handshake.svg?color=%23B08968" width="25" align="center" alt=""/>
+  Parceria institucional
+</h2>
 
 O projeto **G.A.I.A.** é desenvolvido em parceria com o **Centro de Apoio ao Animal (CEAN)**, instituição vinculada ao município de Cruzeiro/SP, que desempenha um papel importante na proteção, acolhimento e cuidado de animais em situação de vulnerabilidade.
 
@@ -71,34 +74,39 @@ O G.A.I.A. nasce com o propósito de contribuir com esse trabalho, oferecendo fe
 
 O trabalho de instituições como o CEAN merece reconhecimento, apoio e participação da comunidade. Acompanhe suas atividades, divulgue as iniciativas e contribua para fortalecer a causa animal.
 
-<table align="center">
-  <tr>
-    <td align="center" width="600">
-      <img src="https://api.iconify.design/lucide/paw-print.svg?color=%23006B5B" width="48" alt="CEAN"/>
+<p align="center">
+  <a href="https://linktr.ee/ceancruzeiro">
+    <img
+      src="https://api.iconify.design/lucide/paw-print.svg?color=%23006B5B"
+      width="42"
+      alt="CEAN"
+    />
+  </a>
+</p>
 
-      <h3>CEAN Cruzeiro</h3>
-      <strong>Centro de Proteção Animal</strong>
+<h3 align="center">CEAN Cruzeiro</h3>
 
-      <p>
-        Instituição dedicada à proteção, ao acolhimento e ao cuidado animal,
-        promovendo iniciativas de assistência, conscientização e adoção responsável.
-      </p>
+<p align="center">
+  <strong>Centro de Proteção Animal</strong>
+  <br/>
+  Proteção, acolhimento e cuidado animal.
+  <br/>
+  <img src="https://api.iconify.design/lucide/map-pin.svg?color=%23006B5B" width="14" align="center" alt=""/>
+  Cruzeiro — São Paulo
+</p>
 
-      <p>
-        <img src="https://api.iconify.design/lucide/map-pin.svg?color=%23006B5B" width="14" alt="Localização"/>
-        Rod. Deputado Nesralla Rubez, 2760 — Vila Juvenal
-      </p>
+<p align="center">
+  <a href="https://linktr.ee/ceancruzeiro">
+    <img
+      src="https://img.shields.io/badge/CONHEÇA_O_CEAN-006B5B?style=for-the-badge&logo=linktree&logoColor=white"
+      alt="Conheça o CEAN"
+    />
+  </a>
+</p>
 
-      <a href="https://linktr.ee/ceancruzeiro">
-        <img src="https://img.shields.io/badge/CONHEÇA_O_CEAN-006B5B?style=for-the-badge&logo=linktree&logoColor=white" alt="Conheça o CEAN"/>
-      </a>
-
-      <br/><br/>
-      <sub>Instagram • Facebook • Consultas • Denúncias</sub>
-      <br/><br/>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <sub>Instagram • Facebook • WhatsApp • Consultas • Denúncias</sub>
+</p>
 
 ---
 
