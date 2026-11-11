@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1
   <img src="https://api.iconify.design/lucide/paw-print.svg?color=%23F39200" width="38" />
   <img src="https://api.iconify.design/lucide/paw-print.svg?color=%230B9E8A" width="25" />
   G.A.I.A.
