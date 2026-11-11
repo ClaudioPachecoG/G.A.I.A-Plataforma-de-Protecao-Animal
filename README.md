@@ -69,21 +69,48 @@ O G.A.I.A. nasce com o propósito de contribuir com esse trabalho, oferecendo fe
 
 ### Conheça e apoie o trabalho do CEAN
 
-<h3 align="center">Acompanhe o CEAN</h3>
-
-<p align="center">
-  <a href="https://www.instagram.com/ceancrz/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://www.facebook.com/ceancrz/?locale=pt_BR">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
-  <a href="https://wa.me/55DDDNUMERO">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
-  </a>
-</p>
-
 O trabalho de instituições como o CEAN merece reconhecimento, apoio e participação da comunidade. Acompanhe suas atividades, divulgue as iniciativas e contribua para fortalecer a causa animal.
+
+<h3 align="center">
+  <img src="https://api.iconify.design/lucide/heart-handshake.svg?color=%23006B5B" width="22" align="center"/>
+  Acompanhe o CEAN
+</h3>
+
+<table align="center">
+  <tr>
+    <td align="center" width="600">
+      <br/>
+      <img
+        src="https://api.iconify.design/lucide/paw-print.svg?color=%23006B5B"
+        width="48"
+        alt="CEAN"
+      />
+
+      <h3>CEAN Cruzeiro</h3>
+      <strong>Centro de Proteção Animal</strong>
+
+      <p>
+        Instituição dedicada à proteção, ao acolhimento e ao cuidado animal,
+        promovendo iniciativas de assistência, conscientização e adoção responsável.
+      </p>
+
+      <p>
+        <img src="https://api.iconify.design/lucide/map-pin.svg?color=%23006B5B" width="14" align="center"/>
+        Rod. Deputado Nesralla Rubez, 2760 — Vila Juvenal
+      </p>
+
+      <a href="https://linktr.ee/ceancruzeiro">
+        <img
+          src="https://img.shields.io/badge/CONHEÇA_O_CEAN-006B5B?style=for-the-badge&logo=linktree&logoColor=white"
+          alt="Conheça o CEAN"
+        />
+      </a>
+      <br/><br/>
+      <sub>Instagram • Facebook • Consultas • Denúncias</sub>
+      <br/><br/>
+    </td>
+  </tr>
+</table>
 
 ---
 
