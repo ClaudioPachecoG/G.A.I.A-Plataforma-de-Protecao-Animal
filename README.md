@@ -48,6 +48,16 @@ O projeto busca utilizar a tecnologia para apoiar os processos administrativos e
 
 ---
 
+<h2><img src="https://api.iconify.design/lucide/handshake.svg?color=%23B08968" width="25" /> Parceria institucional</h2>
+
+**Centro de Proteção Animal (CEAN) — Cruzeiro, SP**
+
+O G.A.I.A. busca desenvolver uma solução alinhada às necessidades reais da instituição, considerando seus processos, desafios e rotinas de trabalho.
+
+A parceria institucional contribui para compreender os requisitos e direcionar o desenvolvimento de funcionalidades que possam apoiar a proteção e o acompanhamento dos animais.
+
+---
+
 <h2><img src="https://api.iconify.design/lucide/layout-dashboard.svg?color=%23A78BFA" width="25" /> Módulos do sistema</h2>
 
 A plataforma está planejada em dez módulos integrados, compartilhando informações e regras de negócio.
@@ -197,37 +207,38 @@ flowchart TD
 
 <h2><img src="https://api.iconify.design/lucide/code-xml.svg?color=%23A78BFA" width="25" /> Tecnologias e ferramentas</h2>
 
-### Linguagens e plataformas
+### Principais tecnologias
 
-<p>
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/XAML-0C54C2?style=flat-square" />
+<p align="center">
+  <img src="https://skill-icons-v2.vercel.app/api/icons?i=cs&theme=dark" height="48" title="C#" alt="C Sharp"/>
+  <img src="https://skill-icons-v2.vercel.app/api/icons?i=dotnet&theme=dark" height="48" title=".NET" alt="NET MAUI"/>
+  <img src="https://skillprogress.dev/skill/wpf" height="24" title="WPF" alt="WPF"/>
+  <img src="https://skill-icons-v2.vercel.app/api/icons?i=postgresql&theme=dark" height="48" title="PostgreSQL" alt="PostgreSQL"/>
+  <img src="https://skill-icons-v2.vercel.app/api/icons?i=api&theme=dark" height="24" title="API" alt="API"/>
+  <img src="https://skill-icons-v2.vercel.app/api/icons?i=visualstudio&theme=dark" height="48" title="Visual Studio" alt="Visual Studio"/>
 </p>
 
 ### Interfaces e serviços
 
-<p>
-  <img src="https://img.shields.io/badge/WPF-0078D4?style=flat-square" />
-  <img src="https://img.shields.io/badge/.NET_MAUI-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/MVVM-0B9E8A?style=flat-square" />
+<p align="center">
+  <img src="https://skill-icons-v2.vercel.app/api/icons?i=dotnet&theme=dark" height="48" title=".NET" alt=".NET"/>
+  <img src="https://skill-icons-v2.vercel.app/api/icons?i=visualstudio&theme=dark" height="48" title="Visual Studio" alt="Visual Studio"/>
 </p>
 
 ### Banco de dados e persistência
 
-<p>
-  <img src="https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=flat-square" />
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+<p align="center">
+  <img src="https://skill-icons-v2.vercel.app/api/icons?i=postgresql&theme=dark" height="48" title="PostgreSQL" alt="PostgreSQL"/>
+  <img src="https://skill-icons-v2.vercel.app/api/icons?i=mysql&theme=dark" height="48" title="MySQL" alt="MySQL"/>
+  <img src="https://skill-icons-v2.vercel.app/api/icons?i=sqlite&theme=dark" height="48" title="SQLite" alt="SQLite"/>
 </p>
 
 ### Versionamento e qualidade
 
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Testes_Automatizados-0B9E8A?style=flat-square" />
+<p align="center">
+  <img src="https://skill-icons-v2.vercel.app/api/icons?i=git&theme=dark" height="48" title="Git" alt="Git"/>
+  <img src="https://skill-icons-v2.vercel.app/api/icons?i=github&theme=dark" height="48" title="GitHub" alt="GitHub"/>
+  <img src="https://skill-icons-v2.vercel.app/api/icons?i=visualstudio&theme=dark" height="48" title="Visual Studio" alt="Visual Studio"/>
 </p>
 
 ---
@@ -287,16 +298,6 @@ A identidade deverá ser mantida nas aplicações desktop e mobile, nos materiai
 **Fase atual:** planejamento e estruturação técnica.
 
 Os dez módulos apresentados representam o escopo funcional previsto. O andamento será atualizado conforme cada funcionalidade for desenvolvida e validada.
-
----
-
-<h2><img src="https://api.iconify.design/lucide/handshake.svg?color=%23B08968" width="25" /> Parceria institucional</h2>
-
-**Centro de Proteção Animal (CEAN) — Cruzeiro, SP**
-
-O G.A.I.A. busca desenvolver uma solução alinhada às necessidades reais da instituição, considerando seus processos, desafios e rotinas de trabalho.
-
-A parceria institucional contribui para compreender os requisitos e direcionar o desenvolvimento de funcionalidades que possam apoiar a proteção e o acompanhamento dos animais.
 
 ---
 
