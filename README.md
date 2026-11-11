@@ -74,7 +74,7 @@ O G.A.I.A. nasce com o propósito de contribuir com esse trabalho, oferecendo fe
 
 O trabalho de instituições como o CEAN merece reconhecimento, apoio e participação da comunidade. Acompanhe suas atividades, divulgue as iniciativas e contribua para fortalecer a causa animal.
 
-<p align="center">
+<p
   <a href="https://linktr.ee/ceancruzeiro">
     <img src="https://img.shields.io/badge/CONHEÇA_O_CEAN-006B5B?style=for-the-badge&logo=linktree&logoColor=white" alt="Conheça o CEAN"/>
   </a>
