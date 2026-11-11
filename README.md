@@ -7,11 +7,12 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/WPF-0078D4?style=flat-square" />
-  <img src="https://img.shields.io/badge/.NET_MAUI-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+  <img src="https://skill-icons-v2.vercel.app/api/icons?i=cs&theme=dark" height="48" title="C#" alt="C Sharp"/>
+  <img src="https://skill-icons-v2.vercel.app/api/icons?i=dotnet&theme=dark" height="48" title=".NET" alt="NET MAUI"/>
+  <img src="https://skillprogress.dev/skill/wpf" height="24" title="WPF" alt="WPF"/>
+  <img src="https://skill-icons-v2.vercel.app/api/icons?i=postgresql&theme=dark" height="48" title="PostgreSQL" alt="PostgreSQL"/>
+  <img src="https://skill-icons-v2.vercel.app/api/icons?i=api&theme=dark" height="24" title="API" alt="API"/>
+  <img src="https://skill-icons-v2.vercel.app/api/icons?i=visualstudio&theme=dark" height="48" title="Visual Studio" alt="Visual Studio"/>
 </p>
 
 ---
@@ -85,7 +86,7 @@ A plataforma está planejada em dez módulos integrados, compartilhando informa�
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><img src="https://api.iconify.design/lucide-clipboard-list.svg?color=%23F87171" width="21" /> 03. Gestão de ocorrências</h3>
+      <h3><img src="https://api.iconify.design/lucide/clipboard-list.svg?color=%23F39200" width="21" /> 03. Gestão de ocorrências</h3>
       <sub>Controle do atendimento e dos encaminhamentos.</sub>
       - Identificação e categorização.
       - Definição de prioridade.
@@ -207,15 +208,10 @@ flowchart TD
 
 <h2><img src="https://api.iconify.design/lucide/code-xml.svg?color=%23A78BFA" width="25" /> Tecnologias e ferramentas</h2>
 
-### Principais tecnologias
+### Linguagem de programação:
 
 <p align="center">
   <img src="https://skill-icons-v2.vercel.app/api/icons?i=cs&theme=dark" height="48" title="C#" alt="C Sharp"/>
-  <img src="https://skill-icons-v2.vercel.app/api/icons?i=dotnet&theme=dark" height="48" title=".NET" alt="NET MAUI"/>
-  <img src="https://skillprogress.dev/skill/wpf" height="24" title="WPF" alt="WPF"/>
-  <img src="https://skill-icons-v2.vercel.app/api/icons?i=postgresql&theme=dark" height="48" title="PostgreSQL" alt="PostgreSQL"/>
-  <img src="https://skill-icons-v2.vercel.app/api/icons?i=api&theme=dark" height="24" title="API" alt="API"/>
-  <img src="https://skill-icons-v2.vercel.app/api/icons?i=visualstudio&theme=dark" height="48" title="Visual Studio" alt="Visual Studio"/>
 </p>
 
 ### Interfaces e serviços
@@ -223,6 +219,8 @@ flowchart TD
 <p align="center">
   <img src="https://skill-icons-v2.vercel.app/api/icons?i=dotnet&theme=dark" height="48" title=".NET" alt=".NET"/>
   <img src="https://skill-icons-v2.vercel.app/api/icons?i=visualstudio&theme=dark" height="48" title="Visual Studio" alt="Visual Studio"/>
+  <img src="https://skillprogress.dev/skill/wpf" height="24" title="WPF" alt="WPF"/>
+  <img src="https://skill-icons-v2.vercel.app/api/icons?i=api&theme=dark" height="24" title="API" alt="API"/>
 </p>
 
 ### Banco de dados e persistência
