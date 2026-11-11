@@ -71,20 +71,10 @@ O G.A.I.A. nasce com o propósito de contribuir com esse trabalho, oferecendo fe
 
 O trabalho de instituições como o CEAN merece reconhecimento, apoio e participação da comunidade. Acompanhe suas atividades, divulgue as iniciativas e contribua para fortalecer a causa animal.
 
-<h3 align="center">
-  <img src="https://api.iconify.design/lucide/heart-handshake.svg?color=%23006B5B" width="22" align="center"/>
-  Acompanhe o CEAN
-</h3>
-
 <table align="center">
   <tr>
     <td align="center" width="600">
-      <br/>
-      <img
-        src="https://api.iconify.design/lucide/paw-print.svg?color=%23006B5B"
-        width="48"
-        alt="CEAN"
-      />
+      <img src="https://api.iconify.design/lucide/paw-print.svg?color=%23006B5B" width="48" alt="CEAN"/>
 
       <h3>CEAN Cruzeiro</h3>
       <strong>Centro de Proteção Animal</strong>
@@ -95,16 +85,14 @@ O trabalho de instituições como o CEAN merece reconhecimento, apoio e particip
       </p>
 
       <p>
-        <img src="https://api.iconify.design/lucide/map-pin.svg?color=%23006B5B" width="14" align="center"/>
+        <img src="https://api.iconify.design/lucide/map-pin.svg?color=%23006B5B" width="14" alt="Localização"/>
         Rod. Deputado Nesralla Rubez, 2760 — Vila Juvenal
       </p>
 
       <a href="https://linktr.ee/ceancruzeiro">
-        <img
-          src="https://img.shields.io/badge/CONHEÇA_O_CEAN-006B5B?style=for-the-badge&logo=linktree&logoColor=white"
-          alt="Conheça o CEAN"
-        />
+        <img src="https://img.shields.io/badge/CONHEÇA_O_CEAN-006B5B?style=for-the-badge&logo=linktree&logoColor=white" alt="Conheça o CEAN"/>
       </a>
+
       <br/><br/>
       <sub>Instagram • Facebook • Consultas • Denúncias</sub>
       <br/><br/>
