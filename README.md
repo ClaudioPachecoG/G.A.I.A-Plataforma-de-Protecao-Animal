@@ -51,11 +51,39 @@ O projeto busca utilizar a tecnologia para apoiar os processos administrativos e
 
 <h2><img src="https://api.iconify.design/lucide/handshake.svg?color=%23B08968" width="25" /> Parceria institucional</h2>
 
-**Centro de Proteção Animal (CEAN) — Cruzeiro, SP**
+O projeto **G.A.I.A.** é desenvolvido em parceria com o **Centro de Apoio ao Animal (CEAN)**, instituição vinculada ao município de Cruzeiro/SP, que desempenha um papel importante na proteção, acolhimento e cuidado de animais em situação de vulnerabilidade.
 
-O G.A.I.A. busca desenvolver uma solução alinhada às necessidades reais da instituição, considerando seus processos, desafios e rotinas de trabalho.
+O trabalho do CEAN envolve diferentes frentes de atuação, incluindo o acolhimento de animais resgatados, assistência veterinária, vacinação, castração, orientação à população sobre cuidados e prevenção de maus-tratos, além do incentivo à adoção responsável.
 
-A parceria institucional contribui para compreender os requisitos e direcionar o desenvolvimento de funcionalidades que possam apoiar a proteção e o acompanhamento dos animais.
+Mais do que oferecer assistência aos animais, o CEAN contribui diretamente para a saúde pública, o controle populacional de cães e gatos e a conscientização da comunidade sobre a responsabilidade e o respeito à vida animal.
+
+### Nosso propósito
+
+O G.A.I.A. nasce com o propósito de contribuir com esse trabalho, oferecendo ferramentas tecnológicas que possam facilitar a organização das atividades, centralizar informações, melhorar o acompanhamento dos animais e auxiliar na comunicação entre a instituição e a população.
+
+**Acreditamos que a tecnologia pode ser uma importante aliada na proteção animal.**
+
+> Proteger os animais também é cuidar da comunidade. Cada atendimento, acolhimento e adoção representa um passo em direção a uma realidade mais responsável e humanitária.
+
+> Nosso objetivo é transformar informação em organização, e organização em melhores condições para o cuidado animal.
+
+### Conheça e apoie o trabalho do CEAN
+
+<h3 align="center">Acompanhe o CEAN</h3>
+
+<p align="center">
+  <a href="https://www.instagram.com/ceancrz/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://www.facebook.com/ceancrz/?locale=pt_BR">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="https://wa.me/55DDDNUMERO">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+</p>
+
+O trabalho de instituições como o CEAN merece reconhecimento, apoio e participação da comunidade. Acompanhe suas atividades, divulgue as iniciativas e contribua para fortalecer a causa animal.
 
 ---
 
