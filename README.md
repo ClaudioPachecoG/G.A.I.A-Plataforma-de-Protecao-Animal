@@ -84,10 +84,10 @@ O trabalho de instituições como o CEAN merece reconhecimento, apoio e particip
   </a>
 </p>
 
-<h3 align="center">CEAN Cruzeiro</h3>
+<h3 align="center">CEAN</h3>
 
 <p align="center">
-  <strong>Centro de Proteção Animal</strong>
+  <strong>Centro de Apoio ao Animal</strong>
   <br/>
   Proteção, acolhimento e cuidado animal.
   <br/>
@@ -97,15 +97,8 @@ O trabalho de instituições como o CEAN merece reconhecimento, apoio e particip
 
 <p align="center">
   <a href="https://linktr.ee/ceancruzeiro">
-    <img
-      src="https://img.shields.io/badge/CONHEÇA_O_CEAN-006B5B?style=for-the-badge&logo=linktree&logoColor=white"
-      alt="Conheça o CEAN"
-    />
+    <img src="https://img.shields.io/badge/CONHEÇA_O_CEAN-006B5B?style=for-the-badge&logo=linktree&logoColor=white" alt="Conheça o CEAN"/>
   </a>
-</p>
-
-<p align="center">
-  <sub>Instagram • Facebook • WhatsApp • Consultas • Denúncias</sub>
 </p>
 
 ---
