@@ -9,7 +9,8 @@
 <p align="center">
   <img src="https://skill-icons-v2.vercel.app/api/icons?i=cs&theme=dark" height="48" title="C#" alt="C Sharp"/>
   <img src="https://skill-icons-v2.vercel.app/api/icons?i=dotnet&theme=dark" height="48" title=".NET" alt="NET MAUI"/>
-  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/WPF.svg" height="36" title="Windows Presentation Foundation" alt="WPF"/>
+  <img src="https://img.shields.io/badge/WPF-512BD4?style=for-the-badge&logo=windows&logoColor=white" height="36" title="Windows Presentation Foundation" alt="WPF"/>
+  <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=swagger&logoColor=white" height="36" title="REST API" alt="REST API"/>
   <img src="https://skill-icons-v2.vercel.app/api/icons?i=postgresql&theme=dark" height="48" title="PostgreSQL" alt="PostgreSQL"/>
   <img src="https://skill-icons-v2.vercel.app/api/icons?i=api&theme=dark" height="48" title="API" alt="API"/>
   <img src="https://skill-icons-v2.vercel.app/api/icons?i=visualstudio&theme=dark" height="48" title="Visual Studio" alt="Visual Studio"/>
