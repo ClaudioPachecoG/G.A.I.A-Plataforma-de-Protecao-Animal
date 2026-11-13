@@ -231,7 +231,7 @@ flowchart TD
 
 <h2><img src="https://api.iconify.design/lucide/code-xml.svg?color=%23A78BFA" width="25" /> Tecnologias e ferramentas</h2>
 
-### Linguagem de programação:
+### Linguagem de programação
 
 <p>
   <img src="https://skill-icons-v2.vercel.app/api/icons?i=cs&theme=dark" height="48" title="C#" alt="C Sharp"/>
