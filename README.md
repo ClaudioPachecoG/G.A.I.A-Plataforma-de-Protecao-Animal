@@ -233,13 +233,13 @@ flowchart TD
 
 ### Linguagem de programação:
 
-<p align="center">
+<p>
   <img src="https://skill-icons-v2.vercel.app/api/icons?i=cs&theme=dark" height="48" title="C#" alt="C Sharp"/>
 </p>
 
 ### Interfaces e serviços
 
-<p align="center">
+<p>
   <img src="https://skill-icons-v2.vercel.app/api/icons?i=dotnet&theme=dark" height="48" title=".NET" alt=".NET"/>
   <img src="https://skill-icons-v2.vercel.app/api/icons?i=visualstudio&theme=dark" height="48" title="Visual Studio" alt="Visual Studio"/>
   <img src="https://skillprogress.dev/skill/wpf" height="24" title="WPF" alt="WPF"/>
@@ -248,7 +248,7 @@ flowchart TD
 
 ### Banco de dados e persistência
 
-<p align="center">
+<p>
   <img src="https://skill-icons-v2.vercel.app/api/icons?i=postgresql&theme=dark" height="48" title="PostgreSQL" alt="PostgreSQL"/>
   <img src="https://skill-icons-v2.vercel.app/api/icons?i=mysql&theme=dark" height="48" title="MySQL" alt="MySQL"/>
   <img src="https://skill-icons-v2.vercel.app/api/icons?i=sqlite&theme=dark" height="48" title="SQLite" alt="SQLite"/>
@@ -256,7 +256,7 @@ flowchart TD
 
 ### Versionamento e qualidade
 
-<p align="center">
+<p>
   <img src="https://skill-icons-v2.vercel.app/api/icons?i=git&theme=dark" height="48" title="Git" alt="Git"/>
   <img src="https://skill-icons-v2.vercel.app/api/icons?i=github&theme=dark" height="48" title="GitHub" alt="GitHub"/>
   <img src="https://skill-icons-v2.vercel.app/api/icons?i=visualstudio&theme=dark" height="48" title="Visual Studio" alt="Visual Studio"/>
