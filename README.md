@@ -240,10 +240,11 @@ flowchart TD
 ### Interfaces e serviços
 
 <p>
+  <img src="./assets/.NET MAUI icon.svg" height="48" title=".NET MAUI" alt=".NET MAUI"/>
+  <img src="./assets/WPF icon.png" height="48" title="WPF" alt="WPF"/>
+  <img src="./assets/API .NET Core icon.svg" height="48" title=" ASP.NET Core" alt="ASP.NET Core"/>
   <img src="https://skill-icons-v2.vercel.app/api/icons?i=dotnet&theme=dark" height="48" title=".NET" alt=".NET"/>
   <img src="https://skill-icons-v2.vercel.app/api/icons?i=visualstudio&theme=dark" height="48" title="Visual Studio" alt="Visual Studio"/>
-  <img src="https://skillprogress.dev/skill/wpf" height="24" title="WPF" alt="WPF"/>
-  <img src="https://skill-icons-v2.vercel.app/api/icons?i=api&theme=dark" height="24" title="API" alt="API"/>
 </p>
 
 ### Banco de dados e persistência
@@ -259,7 +260,6 @@ flowchart TD
 <p>
   <img src="https://skill-icons-v2.vercel.app/api/icons?i=git&theme=dark" height="48" title="Git" alt="Git"/>
   <img src="https://skill-icons-v2.vercel.app/api/icons?i=github&theme=dark" height="48" title="GitHub" alt="GitHub"/>
-  <img src="https://skill-icons-v2.vercel.app/api/icons?i=visualstudio&theme=dark" height="48" title="Visual Studio" alt="Visual Studio"/>
 </p>
 
 ---
