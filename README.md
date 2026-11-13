@@ -9,6 +9,7 @@
 <p align="center">
   <img src="https://skill-icons-v2.vercel.app/api/icons?i=cs&theme=dark" height="48" title="C#" alt="C Sharp"/>
   <img src="./assets/.NET MAUI icon.svg" height="48" title=".NET MAUI" alt=".NET MAUI"/>
+  <img src="./assets/Logotipo Microsoft .NET em Azul.png" height="28" title="WPF .NET" alt="WPF .NET"/>
   <img src="https://skill-icons-v2.vercel.app/api/icons?i=postgresql&theme=dark" height="48" title="PostgreSQL" alt="PostgreSQL"/>
   <img src="./assets/API .NET Core icon.svg" height="48" title=" ASP.NET Core" alt="ASP.NET Core"/>
   <img src="https://skill-icons-v2.vercel.app/api/icons?i=visualstudio&theme=dark" height="48" title="Visual Studio" alt="Visual Studio"/>
