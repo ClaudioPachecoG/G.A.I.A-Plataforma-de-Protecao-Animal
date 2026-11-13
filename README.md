@@ -12,7 +12,7 @@
   <img src="https://windowsclient.net/SiteFiles/1000/wpfsp1/wpf.png" height="48" title="WPF" alt="Windows Presentation Foundation"/>
   <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=swagger&logoColor=white" height="36" title="REST API" alt="REST API"/>
   <img src="https://skill-icons-v2.vercel.app/api/icons?i=postgresql&theme=dark" height="48" title="PostgreSQL" alt="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="48" title=".NET Core" alt=".NET Core"/>
+  <img src="./assets/API.NET Core icon.svg" height="48" title=" API.NET Core" alt="API .NET Core"/>
   <img src="https://skill-icons-v2.vercel.app/api/icons?i=visualstudio&theme=dark" height="48" title="Visual Studio" alt="Visual Studio"/>
 </p>
 
