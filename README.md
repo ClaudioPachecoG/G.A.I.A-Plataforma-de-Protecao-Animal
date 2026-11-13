@@ -8,7 +8,7 @@
 
 <p align="center">
   <img src="https://skill-icons-v2.vercel.app/api/icons?i=cs&theme=dark" height="48" title="C#" alt="C Sharp"/>
-  <img src="https://skill-icons-v2.vercel.app/api/icons?i=dotnet&theme=dark" height="48" title=".NET" alt="NET MAUI"/>
+  <img src="./assets/.NET MAUI icon.svg" height="48" title=".NET MAUI" alt=".NET MAUI"/>
   <img src="https://windowsclient.net/SiteFiles/1000/wpfsp1/wpf.png" height="48" title="WPF" alt="Windows Presentation Foundation"/>
   <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=swagger&logoColor=white" height="36" title="REST API" alt="REST API"/>
   <img src="https://skill-icons-v2.vercel.app/api/icons?i=postgresql&theme=dark" height="48" title="PostgreSQL" alt="PostgreSQL"/>
